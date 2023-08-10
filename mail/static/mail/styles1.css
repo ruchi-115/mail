@@ -1,0 +1,35 @@
+textarea {
+    min-height: 400px;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: white;
+}
+
+.email {
+    display: block;
+    padding: 2vh;
+    border: 1px solid silver;
+    background-color: #fff;
+}
+
+.is_read {
+    background-color: rgb(214, 214, 214);
+}
+
+
+.btn-email {
+    margin: 10px auto;
+    padding: 5px 10px;
+    /* width: 50px; */
+    border: none;
+    border-radius: 5px;
+    box-sizing: content-box;
+    background-color: #1c6ab8c4;
+    color: white;
+    text-align: center;
+}
